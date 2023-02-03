@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojciech</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Sparkledge](https://www.sparkledge.pl/)
+- 🔭 I’m currently working on [Sparkledge](https://www.sparkledge.pl/) and [Handlin](https://www.npmjs.com/package/handlin)
 
 - 📫 Reach me: **wch.basinski@gmail.com**
 
